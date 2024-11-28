@@ -1,0 +1,14 @@
+body {
+    font-family: cursive;
+    background-color: lightgoldenrodyellow ;
+    margin: 0;
+    padding: 100px;
+}
+.container{
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: blanchedalmond;
+    border-radius: 8px;
+    box-shadow: 0 0 10px burlywood;
+}
