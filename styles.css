@@ -38,8 +38,8 @@ input, textarea, select{
     border-radius: 15px;
 }
 input[type="submit"]:hover{
-    background-color: hotpink;
+    background-color: rgb(255, 0, 128);
 }
 input[type="reset"]:hover{
-    background-color: hotpink;
+    background-color: rgb(236, 5, 121);
 }
