@@ -31,8 +31,8 @@ input, textarea, select{
     border-radius: 15px;
 }
 input[type="submit"]:hover{
-    background-color: burlywood;
+    background-color: papayawhip;
 }
 input[type="reset"]:hover{
-    background-color: burlywood;
+    background-color: papayawhip;
 }
