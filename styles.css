@@ -8,9 +8,9 @@ body {
     max-width: 500px;
     margin: 0 auto;
     padding: 20px;
-    background-color: burlywood;
+    background-color:pink;
     border-radius: 8px;
-    box-shadow: 0 0 10px chocolate;
+    box-shadow: 0 0 10px palevioletred;
 }
 p{
     text-align: center;
